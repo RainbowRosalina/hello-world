@@ -1,2 +1,5 @@
 # hello-world
-Starting guide
+
+Hello!
+
+Just committing changes for an example.
